@@ -32,9 +32,9 @@ dependencies = [
 toolery = "toolery.__main__:main"
 
 [project.urls]
-Homepage = "https://github.com/thorwhalen/toolery"
-Repository = "https://github.com/thorwhalen/toolery"
-Issues = "https://github.com/thorwhalen/toolery/issues"
+Homepage = "https://github.com/addaix/toolery"
+Repository = "https://github.com/addaix/toolery"
+Issues = "https://github.com/addaix/toolery/issues"
 
 [project.optional-dependencies]
 dev = [
