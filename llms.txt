@@ -1,0 +1,27 @@
+# toolery
+
+> A searchable, self-maintaining catalog over any corpus of tools, skills, agents, and components.
+
+
+## Pages
+
+- [toolery](index.html.md): A searchable, self-maintaining catalog over any corpus of tools, skills, agents, and components.
+- [API reference](api.html.md): | &#96;toolery&#96;   | toolery — a searchable catalog over any corpus of tools, skills, agents, and compone...
+- [toolery](_autosummary/toolery.html.md): toolery — a searchable catalog over any corpus of tools, skills, agents, and components.
+- [toolery.contrib](_autosummary/toolery.contrib.html.md): Convenience presets: build a catalog over your usual asset locations in one call.
+- [toolery.base](_autosummary/toolery.base.html.md): Core data model for toolery: the normalized asset &#96;Card&#96;.
+- [toolery.cli](_autosummary/toolery.cli.html.md): Command-line interface for toolery (&#96;cw&#96; dispatch).
+- [toolery.harvest](_autosummary/toolery.harvest.html.md): Harvesters: turn a source of raw assets into normalized &#96;Card&#96; s.
+- [toolery.ir_backend](_autosummary/toolery.ir_backend.html.md): An &#96;ir&#96;-backed semantic search backend for toolery.
+- [toolery.mcp_server](_autosummary/toolery.mcp_server.html.md): Expose a toolery catalog’s search as an MCP server — one search tool for agents.
+- [toolery.search](_autosummary/toolery.search.html.md): Search backends for toolery.
+- [For AI agents](ai-agents.html.md): &#96;toolery&#96; ships artifacts for coding agents alongside its code. This page lists
+- [About this build](about-this-build.html.md): This documentation was built on &#42;&#42;2026-11-21 15:45 UTC&#42;&#42; from commit &lt;a href="https://github.com/add...
+
+## Optional
+
+- [toolery.md](toolery.md): Complete documentation in a single file.
+
+## Build
+
+- [build_info.json](build_info.json): build provenance (commit, version, tool versions, whether the docs match the package)

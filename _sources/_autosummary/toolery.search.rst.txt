@@ -1,0 +1,18 @@
+toolery.search
+==============
+
+.. automodule:: toolery.search
+
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      lexical_search
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SearchBackend
+   

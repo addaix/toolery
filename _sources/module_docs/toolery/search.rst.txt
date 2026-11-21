@@ -1,4 +1,0 @@
-toolery.search
-==============
-.. automodule:: toolery.search
-   :members:

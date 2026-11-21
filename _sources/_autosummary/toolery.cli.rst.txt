@@ -1,0 +1,20 @@
+toolery.cli
+===========
+
+.. automodule:: toolery.cli
+
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      agents
+      discover
+      index
+      main
+      mine
+      packages
+      search
+      serve
+      skills
+   

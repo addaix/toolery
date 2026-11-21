@@ -1,4 +1,0 @@
-toolery.harvest
-===============
-.. automodule:: toolery.harvest
-   :members:

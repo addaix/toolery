@@ -1,0 +1,43 @@
+﻿toolery
+=======
+
+.. automodule:: toolery
+
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      catalog
+      folder
+      skills
+      agents
+      packages
+      mcp
+      lexical_search
+      make_server
+      search_tool
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Card
+      Catalog
+      SearchBackend
+      IrBackend
+      IrFederatedBackend
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   contrib
+   base
+   cli
+   harvest
+   ir_backend
+   mcp_server
+   search

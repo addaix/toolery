@@ -1,0 +1,14 @@
+toolery.mcp\_server
+===================
+
+.. automodule:: toolery.mcp_server
+
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      make_server
+      search_tool
+      serve
+   

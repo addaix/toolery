@@ -1,0 +1,19 @@
+# toolery
+
+> A searchable, self-maintaining catalog over any corpus of tools, skills, agents, and components.
+
+
+## Pages in this subsection
+
+- [toolery](toolery.html.md): toolery — a searchable catalog over any corpus of tools, skills, agents, and components.
+- [toolery.contrib](toolery.contrib.html.md): Convenience presets: build a catalog over your usual asset locations in one call.
+- [toolery.base](toolery.base.html.md): Core data model for toolery: the normalized asset &#96;Card&#96;.
+- [toolery.cli](toolery.cli.html.md): Command-line interface for toolery (&#96;cw&#96; dispatch).
+- [toolery.harvest](toolery.harvest.html.md): Harvesters: turn a source of raw assets into normalized &#96;Card&#96; s.
+- [toolery.ir_backend](toolery.ir_backend.html.md): An &#96;ir&#96;-backed semantic search backend for toolery.
+- [toolery.mcp_server](toolery.mcp_server.html.md): Expose a toolery catalog’s search as an MCP server — one search tool for agents.
+- [toolery.search](toolery.search.html.md): Search backends for toolery.
+
+## Optional
+
+- [Top-level llms.txt](../llms.txt): Complete documentation index.

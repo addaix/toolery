@@ -1,4 +1,0 @@
-toolery.catalog
-===============
-.. automodule:: toolery.catalog
-   :members:

@@ -1,0 +1,16 @@
+toolery.contrib
+===============
+
+.. automodule:: toolery.contrib
+
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      claude_agents
+      claude_skills
+      everything
+      from_config
+      python_packages
+   

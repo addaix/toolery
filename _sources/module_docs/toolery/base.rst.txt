@@ -1,4 +1,0 @@
-toolery.base
-============
-.. automodule:: toolery.base
-   :members:

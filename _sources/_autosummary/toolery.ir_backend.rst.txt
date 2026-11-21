@@ -1,0 +1,13 @@
+toolery.ir\_backend
+===================
+
+.. automodule:: toolery.ir_backend
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      IrBackend
+      IrFederatedBackend
+   
